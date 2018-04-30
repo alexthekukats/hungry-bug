@@ -1,0 +1,12 @@
+-r
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\My Amplifier XE Results - éhes bogár\r000ah
+--target=host
+--itt-config=frame
+--event-config=CPU_CLK_UNHALTED.THREAD:sa=3400000,CPU_CLK_UNHALTED.REF_TSC:sa=3400000,INST_RETIRED.ANY:sa=3400000
+--sample-after-multiplier=1.0
+--event-mux
+--mrte-mode=mixed
+--search-dir
+sym=C:\Users\Alex\Documents\C# Progik\éhes bogár
+--
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\bin\Debug\éhes bogár.exe

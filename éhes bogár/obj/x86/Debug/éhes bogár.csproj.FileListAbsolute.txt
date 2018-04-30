@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\bin\Debug\éhes bogár.exe
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\bin\Debug\éhes bogár.pdb
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\obj\x86\Debug\éhes bogár.exe
+C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\obj\x86\Debug\éhes bogár.pdb
