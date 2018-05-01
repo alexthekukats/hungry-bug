@@ -17,7 +17,7 @@ namespace éhes_bogár
             for (i = 0; i < probasz; i++)
             {
                 A();
-                Console.WriteLine("Átlag: " + avg(alma));
+                Console.Write("Átlag: " + avg(alma) + "\t");
                 //Console.ReadKey();
             }
             Console.WriteLine(alma.Average());

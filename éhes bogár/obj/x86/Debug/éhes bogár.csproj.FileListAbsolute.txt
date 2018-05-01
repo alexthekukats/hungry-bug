@@ -3,3 +3,9 @@ C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\bin\Debug\éhes bog�
 C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\obj\x86\Debug\éhes bogár.exe
 C:\Users\Alex\Documents\C# Progik\éhes bogár\éhes bogár\obj\x86\Debug\éhes bogár.pdb
+D:\Alex\Dokkok\GitHub\ehes-bohar\éhes bogár\bin\Debug\éhes bogár.exe
+D:\Alex\Dokkok\GitHub\ehes-bohar\éhes bogár\bin\Debug\éhes bogár.pdb
+D:\Alex\Dokkok\GitHub\ehes-bohar\éhes bogár\obj\x86\Debug\éhes bogár.csprojResolveAssemblyReference.cache
+D:\Alex\Dokkok\GitHub\ehes-bohar\éhes bogár\obj\x86\Debug\éhes bogár.csproj.CoreCompileInputs.cache
+D:\Alex\Dokkok\GitHub\ehes-bohar\éhes bogár\obj\x86\Debug\éhes bogár.exe
+D:\Alex\Dokkok\GitHub\ehes-bohar\éhes bogár\obj\x86\Debug\éhes bogár.pdb
